@@ -1,4 +1,6 @@
-package ex22;
+// 22) Função recursiva fibonacciRecursivo.
+
+import java.util.Scanner;
 
 public class Solution {
 	public static int fibonacciRecursivo(int n) {
